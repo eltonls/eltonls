@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elton</h1>
 <h3 align="center">I'm a crazy developer person</h3>
 
-- 🌱 I’m currently learning **Golang, MySql, React, MongoDB and PHP**
+- 🌱 I’m currently learning **React, Webpack, Vuejs**
 
 - 📫 How to reach me **rs.eltonribeiro@gmail.com**
 
