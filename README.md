@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elton</h1>
-<h3 align="center">I'm a crazy developer person</h3>
+<h3 align="center">I'm a just writer, I write fiction and code</h3>
 
 - 🌱 I’m currently learning **React, Webpack, Vuejs**
 
