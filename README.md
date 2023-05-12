@@ -1,7 +1,7 @@
 <h1 align="center">Olá, meu nome é Elton</h1>
 <h3 align="center">Desenvolvedor Fullstack e Estudante de Sistemas de Informação</h3>
 
-- 🌱 Estou aprendendo atualmente **Java, POO e Docker**
+- 🌱 Estou aprendendo atualmente **Java, POO e Testes Unit**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [elton-portfolio.netlify.app/](elton-portfolio.netlify.app/)
 
